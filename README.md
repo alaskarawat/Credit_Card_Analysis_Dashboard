@@ -22,7 +22,7 @@
 
 
 ### 💳 Transaction Analysis Dashboard
-![Credit_Card_Analysis_Dashboard](Transaction_Dasboard/transaction_dashboard.jpg)
+![Credit_Card_Analysis_Dashboard](transaction_dashboard.jpg)
 
 ---
 ## 📁 DASHBOARD FILES
