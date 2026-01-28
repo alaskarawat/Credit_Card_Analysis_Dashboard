@@ -17,7 +17,7 @@
 ## 📸 DASHBOARD PREVIEWS
 
 ### 🧍‍♂️ Customer Analysis Dashboard
-![Credit_Card_Analysis_Dashboard](Customer_Dasboard/customer_dashboard.jpg)
+![Credit_Card_Analysis_Dashboard](customer_dashboard.jpg)
 
 
 
